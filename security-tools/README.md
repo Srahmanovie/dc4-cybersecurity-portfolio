@@ -50,10 +50,15 @@ Server: Example
 Security Headers
 ----------------------------------------
 [+] Content-Security-Policy: PRESENT
+
 [-] Strict-Transport-Security: MISSING
+
 [+] X-Content-Type-Options: PRESENT
+
 [+] X-Frame-Options: PRESENT
+
 [-] Referrer-Policy: MISSING
+
 [+] Permissions-Policy: PRESENT
 
 Analysis complete.
