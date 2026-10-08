@@ -81,5 +81,8 @@ Planned improvements include:
 - Risk scoring
 - HTML report generation
 
-See [Example Output]
-(example-output.md) for a recorded demonstration run against `https://example.com`.
+Example Results
+
+See "Example Output" (example-output.md) for a recorded demonstration run of the DC4 Security Header Analyzer against "https://example.com".
+
+The results document records the actual tool output and explains its limitations. Missing headers are observations that require context; they do not independently establish an exploitable vulnerability.
