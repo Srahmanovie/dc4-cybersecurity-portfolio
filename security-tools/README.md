@@ -80,3 +80,6 @@ Planned improvements include:
 - Configurable header checks
 - Risk scoring
 - HTML report generation
+
+See [Example Output]
+(example-output.md) for a recorded demonstration run against `https://example.com`.
