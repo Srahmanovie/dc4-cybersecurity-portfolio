@@ -1,36 +1,63 @@
-# dc4-cybersecurity-portfolio
-Cybersecurity assessments, security research, tools, and CTF writeups.
+DC4 Cybersecurity Portfolio
 
-Featured Projects
+Welcome to the DC4 Cybersecurity portfolio.
 
-1. Website Security Assessment
+This repository contains cybersecurity research, security assessment methodologies, defensive security tools, CTF writeups, and security-awareness resources.
 
-Documented methodology and sample findings from authorized web security training.
+About
 
-- "Assessment Overview" (website-security/README.md)
-- "Testing Methodology" (website-security/methodology.md)
-- "Sample Finding: SQL Injection" (website-security/findings.md)
+DC4 Cybersecurity focuses on authorized security testing, vulnerability assessment, security research, and cybersecurity awareness.
 
-2. DC4 Security Header Analyzer
+All security testing documented in this repository is performed only against systems that are owned by me, intentionally vulnerable labs, CTF environments, or systems for which explicit authorization has been provided.
 
-A Python tool that checks for the presence of common HTTP security headers.
+Areas of Focus
 
-- "Tool Documentation" (security-tools/README.md)
-- "Python Source Code" (security-tools/security_headers.py)
-- "Example Output" (security-tools/example-output.md)
-- "Version History" (security-tools/VERSION.md)
+- Web application security
+- Vulnerability assessment
+- Security configuration review
+- Network security
+- OSINT and reconnaissance
+- Security awareness
+- Python security tooling
+- Capture-the-Flag (CTF) research
+- Defensive cybersecurity
 
-3. CTF Writeups
+Portfolio
 
-Practical learning notes from authorized cybersecurity training labs.
+Website Security
 
-- "CTF Writeups Index" (ctf-writeups/README.md)
-- "SQL Injection Lab 01" (ctf-writeups/portswigger/sql-injection-lab-01.md)
+Authorized website security assessment methodologies and sample reports.
 
-Current Learning Goals
+WordPress Security
 
-- Web application security testing
-- Vulnerability assessment and reporting
-- Python security automation
-- Secure coding and remediation
-- Responsible vulnerability disclosure
+Security configuration and hardening research for WordPress environments.
+
+Security Tools
+
+Small Python and command-line tools created for authorized security testing and defensive research.
+
+OSINT
+
+Research involving publicly available information and ethical reconnaissance techniques.
+
+CTF Writeups
+
+Writeups from legal cybersecurity labs and Capture-the-Flag challenges.
+
+Security Testing Policy
+
+DC4 Cybersecurity does not perform unauthorized access, exploitation, data theft, credential theft, denial-of-service attacks, or other activities against systems without permission.
+
+Testing must have clearly defined authorization and scope.
+
+Disclaimer
+
+The tools and information in this repository are provided for educational, defensive-security, authorized testing, and research purposes.
+
+Users are responsible for obtaining appropriate authorization before testing any system.
+
+Contact
+
+For professional cybersecurity inquiries, contact: diagosrahman@gmail.com
+         +8801624227394
+DC4 Cybersecurity
